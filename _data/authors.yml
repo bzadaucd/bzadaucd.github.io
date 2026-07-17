@@ -2,8 +2,8 @@
 
 Name Name:
   name        : "Bakht Zada"
-  uri         : "https://name.com"
-  email       : "https://bzadaucd.github.io"
+  uri         : "https://bzadaucd.github.i"
+  email       : 
   bio         : "Assistant Professor | Biotechnology | Synthetic Biology | Metabolic Engineering | Industrial Biotechnology."
   avatar      : "profile.jpg"
   twitter     : "name"
@@ -13,6 +13,6 @@ Name2 Name2:
   name        : "Name2 Name2"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
+  avatar      : "profile.jpg"
   twitter     : "name2"
   google_plus : "Name"
