@@ -14,7 +14,7 @@ title_separator          : "|"
 name                     : &name "Bakht Zada"
 description              : &description "Assistant Professor | Biotechnology | Synthetic Biology | Metabolic Engineering"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://bzadaucd.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,9 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Bakht Zada"
   pronouns         : # example: "He/Him"  
-  bio              : "I am an Assistant Professor specializing in industrial biotechnology, microbial biotechnology, and bioprocess engineering. I received my Ph.D. from Gyeongsang National University, Republic of Korea, and was a Research Scholar at the University of California, Davis, USA.
-My research focuses on metabolic engineering, synthetic biology, CRISPR-based genome engineering, enzyme technology, microbial fermentation, and lignocellulosic biomass valorization for the sustainable production of bio-based chemicals and bioproducts."
-  location         : "Pakistan"
+  bio              : "I am an Assistant Professor specializing in industrial biotechnology, microbial biotechnology, and bioprocess engineering."
   employer         : "Department of Chemistry, Government College Daggar, Buner, Government of Khyber Pakhtunkhwa, Pakistan"
   uri              : # URL
   email            : "none@example.org" 
