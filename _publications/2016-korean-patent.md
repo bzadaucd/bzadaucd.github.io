@@ -1,6 +1,7 @@
 ---
 title: "Method for Producing Terpene Alcohols or Their Derivatives"
 collection: publications
+category: patents
 permalink: /publication/korean-patent-terpene
 date: 2016-06-15
 venue: "Korean Patent"
