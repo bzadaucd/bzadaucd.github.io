@@ -1,6 +1,7 @@
 ---
 title: "Synthetic Biology Approaches for the Production of Isoprenoids in Escherichia coli"
 collection: publications
+category: books
 permalink: /publication/isoprenoid-book-chapter
 date: 2019-01-01
 venue: "Current Developments in Biotechnology and Bioengineering"
