@@ -22,16 +22,11 @@ Research Experience
   University of California, Davis, USA<br>
   July 2023 – August 2025
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  **Senior Researcher**<br>
+  Department of Biochemistry<br>
+  Gyeongsang National University, Jinju, South Korea<br>
+  May 2021 – April 2023
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
