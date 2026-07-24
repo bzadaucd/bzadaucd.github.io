@@ -27,8 +27,8 @@ Education
 <br>
 
 **B.S. in Biochemistry**  
-*University of Peshawar, Pakistan*  
-**September 2004 – September 2008**
+University of Peshawar, Pakistan  
+September 2004 – September 2008
 
 Work experience
 ======
