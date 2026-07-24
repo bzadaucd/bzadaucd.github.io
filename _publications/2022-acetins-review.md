@@ -1,6 +1,7 @@
 ---
 title: "Current Trends in Acetins Production: Green versus Non-Green Synthesis"
 collection: publications
+category: manuscripts
 permalink: /publication/acetins-review-2022
 date: 2022-04-05
 venue: "Molecules"
