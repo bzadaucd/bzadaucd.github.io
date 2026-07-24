@@ -17,10 +17,10 @@ Education
 
 Research Experience
 ======
-* Research Scholar
-  * Department of Biological and Agricultural Engineering
-  * University of California, Davis, USA
-  * July 2023 – August 2025
+* **Research Scholar**
+  Department of Biological and Agricultural Engineering
+  University of California, Davis, USA
+  July 2023 – August 2025
 
 * Fall 2015: Research Assistant
   * GitHub University
