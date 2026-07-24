@@ -1,6 +1,7 @@
 ---
 title: "Metabolic engineering of Escherichia coli for production of non-natural acetins from glycerol"
 collection: publications
+category: manuscripts
 permalink: /publication/acetins-2020
 date: 2020-11-01
 venue: "Green Chemistry"
