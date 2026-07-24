@@ -1,6 +1,7 @@
 ---
 title: "Metabolic engineering and synthetic biology approaches driving isoprenoid production in Escherichia coli"
 collection: publications
+category: manuscripts
 permalink: /publication/isoprenoid-review-2017
 date: 2017-09-01
 venue: "Bioresource Technology"
