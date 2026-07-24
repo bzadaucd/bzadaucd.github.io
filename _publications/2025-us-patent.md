@@ -1,6 +1,7 @@
 ---
 title: "Method for Biologically Producing Acetin Compounds"
 collection: publications
+category: patents
 permalink: /publication/us-patent-acetins
 date: 2025-04-15
 venue: "U.S. Patent"
