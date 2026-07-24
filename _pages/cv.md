@@ -11,9 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied Life Sciences, Gyeongsang National University, South Korea, 2019
-* M.S. in Biochemistry/Molecular Biology, Quaid-I-Azam University, Pakistan, 2012
-* B.S. in Biochemistry, University of Peshawar, Pakistan 2008
+
+**Ph.D. in Applied Life Science**  
+*Gyeongsang National University, South Korea*  
+**September 2014 – February 2019**
+
+**Thesis:** *Metabolic Engineering of Escherichia coli for Production of Isoprenoids-Based Biofuel and Acetins-Based Biofuel Additive*
+
+<br>
+
+**M.S. in Biochemistry / Molecular Biology**  
+*Quaid-i-Azam University, Islamabad, Pakistan*  
+**September 2010 – October 2012**
+
+**Thesis:** *Effects of Iron and Zinc Nanoparticles on Water Hyacinth Fermentation*
+
+<br>
+
+**B.S. in Biochemistry**  
+*University of Peshawar, Pakistan*  
+**September 2004 – September 2008**
 
 Work experience
 ======
