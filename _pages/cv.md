@@ -27,9 +27,11 @@ Research Experience
   Gyeongsang National University, Jinju, South Korea<br>
   May 2021 – April 2023
 
-Skills
+Technical Skills
 ======
-* Skill 1
+* Genome Engineering & Synthetic Biology<br>
+  CRISPR/Cas9 genome editing (Conventional and RNP-based), recombineering<br
+  Metabolic engineering, pathway optimization, and microbial chassis development 
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
