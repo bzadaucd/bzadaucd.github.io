@@ -17,7 +17,7 @@ Education
 
 Research Experience
 ======
-* **Research Scholar**
+* **Research Scholar**<br>
   Department of Biological and Agricultural Engineering<br>
   University of California, Davis, USA<br>
   July 2023 – August 2025
