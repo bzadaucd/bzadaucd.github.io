@@ -1,6 +1,7 @@
 ---
 title: "Metabolic engineering of Escherichia coli for production of mixed isoprenoid alcohols and their derivatives"
 collection: publications
+category: manuscripts
 permalink: /publication/isoprenoid-alcohols-2018
 date: 2018-08-01
 venue: "Biotechnology for Biofuels"
