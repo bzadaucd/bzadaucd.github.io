@@ -27,6 +27,23 @@ Department of Biochemistry
 Gyeongsang National University, Jinju, South Korea  
 May 2021 – April 2023
 
+
+Teaching Experience
+======
+
+**Assistant Professor** *(Study leave for overseas research: May 2021 – August 2025)*  
+Government College Daggar, Higher Education Department, Government of Khyber Pakhtunkhwa, Pakistan  
+September 2025 – Present
+
+**Assistant Professor**  
+Government College Daggar, Higher Education Department, Government of Khyber Pakhtunkhwa, Pakistan  
+March 2019 – April 2021
+
+**Lecturer**  
+Government College Daggar, Higher Education Department, Government of Khyber Pakhtunkhwa, Pakistan  
+November 2012 – August 2014
+```
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
