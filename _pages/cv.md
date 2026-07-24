@@ -30,13 +30,31 @@ Research Experience
 Technical Skills
 ======
 * Genome Engineering & Synthetic Biology<br>
-  CRISPR/Cas9 genome editing (Conventional and RNP-based), recombineering<br
+  CRISPR/Cas9 genome editing (Conventional and RNP-based), recombineering<br>
   Metabolic engineering, pathway optimization, and microbial chassis development 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Molecular Biology & Genetic Engineering<br>
+  Advanced DNA assembly (Golden Gate, Gibson Assembly, HiFi), PCR, primer design<br> 
+  Plasmid construction, genomic DNA preparation, and site-directed mutagenesis 
+* Protein Engineering & Biocatalysis<br>
+  Directed evolution, heterologous protein expression, purification, and enzyme characterization<br> 
+  Enzyme activity assays and protein analysis 
+•	Fermentation & Bioprocess Development<br>
+  Microbial fermentation, bioreactor operation, process optimization, and scale-up<br> 
+  Upstream bioprocess development and process monitoring 
+•	Analytical Chemistry & Multi-Omics<br>
+  HPLC, LC-MS/MS, GC-MS, GC-FID, NMR <br>
+  Metabolomics, transcriptomics, proteomics, and metabolic flux analysis 
+•	Biochemical & Molecular Analysis<br>
+  SDS-PAGE, Western blotting, Bradford assay, spectroscopy, quantitative biochemical assays
+•	High-Throughput Screening & Laboratory Management<br>
+  High-throughput screening workflows<br> 
+  Microbial strain libraries, plasmid repositories, and laboratory inventory management 
+•	Scientific Communication & Leadership<br>
+  Scientific writing, manuscript and grant preparation<br> 
+  Technical presentations, interdisciplinary collaboration, and mentoring graduate and undergraduate researchers 
+•	Bioinformatics & Scientific Software<br>
+  SnapGene, Benchling, BLAST, Vector NTI, ImageJ, GraphPad Prism, OriginLab<br> 
+  Microsoft Office Suite
 
 Publications
 ======
