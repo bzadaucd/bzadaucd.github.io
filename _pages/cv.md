@@ -18,11 +18,12 @@ Education
 Research Experience
 ======
 **Research Scholar**  
-University of California, Davis, USA  
-Department of Biological and Agricultural Engineering  
+Department of Biological and Agricultural Engineering
+University of California, Davis, USA    
 July 2023 – August 2025
 
 **Senior Researcher**  
+Department of Biochemistry
 Gyeongsang National University, Jinju, South Korea  
 May 2021 – April 2023
 
