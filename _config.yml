@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Bakht.png"
+  avatar           : "images/profile.jpg"
   name             : "Bakht Zada"
   pronouns         : # example: "He/Him"  
   bio              : "I am an Assistant Professor specializing in industrial biotechnology, microbial biotechnology, and bioprocess engineering."
