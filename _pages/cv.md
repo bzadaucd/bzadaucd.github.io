@@ -18,8 +18,8 @@ Education
 Research Experience
 ======
 * **Research Scholar**
-  Department of Biological and Agricultural Engineering
-  University of California, Davis, USA
+  Department of Biological and Agricultural Engineering<br>
+  University of California, Davis, USA<br>
   July 2023 – August 2025
 
 * Fall 2015: Research Assistant
