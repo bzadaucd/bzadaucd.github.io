@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Life Sciences, Gyeongsang National University, South Korea, 2019
+* M.S. in Biochemistry/Molecular Biology, Quaid-I-Azam University, Pakistan, 2012
+* B.S. in Biochemistry, University of Peshawar, Pakistan 2008
 
 Work experience
 ======
