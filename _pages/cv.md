@@ -38,21 +38,21 @@ Technical Skills
 * Protein Engineering & Biocatalysis<br>
   Directed evolution, heterologous protein expression, purification, and enzyme characterization<br> 
   Enzyme activity assays and protein analysis 
-•	Fermentation & Bioprocess Development<br>
+* Fermentation & Bioprocess Development<br>
   Microbial fermentation, bioreactor operation, process optimization, and scale-up<br> 
   Upstream bioprocess development and process monitoring 
-•	Analytical Chemistry & Multi-Omics<br>
+* Analytical Chemistry & Multi-Omics<br>
   HPLC, LC-MS/MS, GC-MS, GC-FID, NMR <br>
   Metabolomics, transcriptomics, proteomics, and metabolic flux analysis 
-•	Biochemical & Molecular Analysis<br>
+* Biochemical & Molecular Analysis<br>
   SDS-PAGE, Western blotting, Bradford assay, spectroscopy, quantitative biochemical assays
-•	High-Throughput Screening & Laboratory Management<br>
+* High-Throughput Screening & Laboratory Management<br>
   High-throughput screening workflows<br> 
   Microbial strain libraries, plasmid repositories, and laboratory inventory management 
-•	Scientific Communication & Leadership<br>
+* Scientific Communication & Leadership<br>
   Scientific writing, manuscript and grant preparation<br> 
   Technical presentations, interdisciplinary collaboration, and mentoring graduate and undergraduate researchers 
-•	Bioinformatics & Scientific Software<br>
+* Bioinformatics & Scientific Software<br>
   SnapGene, Benchling, BLAST, Vector NTI, ImageJ, GraphPad Prism, OriginLab<br> 
   Microsoft Office Suite
 
