@@ -15,6 +15,17 @@ Education
 * M.S. in Biochemistry/Molecular Biology, Quaid-I-Azam University, Pakistan, 2012
 * B.S. in Biochemistry, University of Peshawar, Pakistan, 2008
 
+Research Experience
+======
+**Research Scholar**  
+University of California, Davis, USA  
+Department of Biological and Agricultural Engineering  
+July 2023 – August 2025
+
+**Senior Researcher**  
+Gyeongsang National University, Jinju, South Korea  
+May 2021 – April 2023
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
