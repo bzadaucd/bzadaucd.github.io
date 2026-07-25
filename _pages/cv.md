@@ -27,6 +27,23 @@ Research Experience
   Gyeongsang National University, Jinju, South Korea<br>
   May 2021 – April 2023
 
+Teaching Experience
+======
+* **Assistant Professor**<br>
+  Government College Daggar Buner<br>
+  Higher Education Department Government of KP, Pakistan<br>
+  September 2025 – Present
+
+*  **Assistant Professor**<br>
+  Government College Daggar Buner<br>
+  Higher Education Department Government of KP, Pakistan<br>
+  March 2019 – April 2021
+
+*  **Lecturer**<br>
+  Government College Daggar Buner<br>
+  Higher Education Department Government of KP, Pakistan<br>
+  November 2012 – August 2014
+
 Technical Skills
 ======
 * Genome Engineering & Synthetic Biology<br>
@@ -62,18 +79,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
