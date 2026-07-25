@@ -13,15 +13,11 @@ date: 2025-09-01
 
 **September 2025 – Present**
 
----
-
 ## Assistant Professor
 **Government College Daggar, Buner**  
 *Higher Education Department, Government of Khyber Pakhtunkhwa (KP), Pakistan*  
 
 **March 2019 – April 2021**
-
----
 
 ## Lecturer
 **Government College Daggar, Buner**  
