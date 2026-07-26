@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Curriculum Vitae
+
+ **[Download my CV (PDF)](/files/Bakht_Zada_CV.pdf)**
 
 Education
 ======
