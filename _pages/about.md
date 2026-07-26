@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome
-
 I am **Bakht Zada**, Assistant Professor at Government College Daggar, Buner, Higher Education Department, Government of KP, Pakistan.
 
 My research interests include:
