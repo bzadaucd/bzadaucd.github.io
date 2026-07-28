@@ -5,10 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{{ site.teaching | size }}
+Number of teaching entries: {{ site.teaching | size }}
 
 {% for post in site.teaching %}
-{{ post.title }}
+- {{ post.title }}
 {% endfor %}
