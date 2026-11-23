@@ -14,6 +14,8 @@ Higher Education Department, Government of Khyber Pakhtunkhwa, Pakistan
 
 **November 2026 – Present**
 
+---
+
 ## Assistant Professor
 
 **Government College Daggar, Buner**  
