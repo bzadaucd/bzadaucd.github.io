@@ -7,12 +7,19 @@ venue: "Government College Daggar, Buner"
 date: 2025-09-01
 ---
 
+## Associate Professor
+
+**Government College Daggar, Buner**  
+Higher Education Department, Government of Khyber Pakhtunkhwa, Pakistan
+
+**November 2026 – Present**
+
 ## Assistant Professor
 
 **Government College Daggar, Buner**  
 Higher Education Department, Government of Khyber Pakhtunkhwa, Pakistan
 
-**September 2025 – Present**
+**September 2025 – October 2026**
 
 ---
 
