@@ -32,10 +32,15 @@ Research Experience
 
 Teaching Experience
 ======
+* **Associate Professor**<br>
+  Government College Daggar Buner<br>
+  Higher Education Department Government of KP, Pakistan<br>
+  November 2026 – Present
+
 * **Assistant Professor**<br>
   Government College Daggar Buner<br>
   Higher Education Department Government of KP, Pakistan<br>
-  September 2025 – Present
+  September 2025 – October 2026
 
 *  **Assistant Professor**<br>
   Government College Daggar Buner<br>
