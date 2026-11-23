@@ -5,37 +5,12 @@ category: manuscripts
 permalink: /publication/cellobionate-2026
 date: 2026-09-03
 venue: "Bioresources and Bioprocessing"
-excerpt: "Metabolic engineering of Thermothelomyces heterothallica using CRISPR-Cas9 genome editing for direct cellobionate production from pretreated wheat straw without external cellulases."
-paperurl: "https://link.springer.com/article/10.1186/s40643-026-01126-0"
-citation: 'Zada, B., Shapouri, H., Wang, J., Sharma, S., Kasuga, T., Valbuena, N., Tchelet, R., Emalfarb, M. & Fan, Z. (2026). Engineering <i>Thermothelomyces heterothallica</i> for cellobionate production. <i>Bioresources and Bioprocessing</i>, 13, 129.'
+citation: 'Zada, B.; Shapouri, H.; Wang, J.; Sharma, S.; Kasuga, T.; Valbuena, N.; Tchelet, R.; Emalfarb, M.; Fan, Z. (2026). Engineering <i>Thermothelomyces heterothallica</i> for cellobionate production. <i>Bioresources and Bioprocessing</i>, 13, 129.'
+paperurl: https://doi.org/10.1186/s40643-026-01126-0
 ---
 
 **Journal:** *Bioresources and Bioprocessing* (2026)
 
-**Volume:** 13
+**DOI:** https://doi.org/10.1186/s40643-026-01126-0
 
-**Article Number:** 129
-
-**DOI:** [10.1186/s40643-026-01126-0](https://link.springer.com/article/10.1186/s40643-026-01126-0)
-
-**Research Areas:** Metabolic Engineering | Fungal Biotechnology | Synthetic Biology | CRISPR-Cas9 Genome Editing
-
-### Abstract and Research Highlights
-
-This study demonstrates the metabolic engineering of the thermophilic filamentous fungus *Thermothelomyces heterothallica* for direct cellobionate production from alkali-pretreated wheat straw without the addition of external cellulases.
-
-Using a ribonucleoprotein (RNP)-based CRISPR-Cas9 genome editing system, eight β-glucosidase genes, one cellobiose/cellobionate phosphorylase gene, and two putative cellobionate transporter genes were sequentially disrupted to construct the engineered TH11 strain.
-
-Under optimized fermentation conditions (43 °C and 50 mM citrate buffer, pH 6.0), the engineered strain produced approximately 64 mM cellobionate within five days.
-
-The study achieved approximately 88% cellulose conversion, demonstrating the potential of fungal metabolic engineering for sustainable bioconversion of lignocellulosic biomass into value-added bioproducts.
-
-### Key Findings
-
-- Development of the engineered fungal strain TH11.
-- CRISPR-Cas9-mediated disruption of 11 target genes.
-- Direct cellobionate production from pretreated wheat straw.
-- Approximately 64 mM cellobionate production in five days.
-- Approximately 88% cellulose conversion without external cellulases.
-
-**Published Article:** [Read the full research article](https://link.springer.com/article/10.1186/s40643-026-01126-0)
+This work presents the metabolic engineering of *Thermothelomyces heterothallica* for cellobionate production using CRISPR-Cas9-mediated genome editing. The engineered TH11 strain produced 64 mM cellobionate within five days and achieved approximately 88% cellulose conversion from alkali-pretreated wheat straw without the addition of external cellulases, demonstrating the potential of fungal metabolic engineering for sustainable biomanufacturing of value-added bioproducts.
