@@ -15,8 +15,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Applied Life Sciences, Gyeongsang National University, South Korea, 2019
-* M.S. in Biochemistry/Molecular Biology, Quaid-I-Azam University, Pakistan, 2012
-* B.S. in Biochemistry, University of Peshawar, Pakistan, 2008
+* M.S./M.Phil. in Biochemistry/Molecular Biology, Quaid-I-Azam University, Pakistan, 2012
 
 Research Experience
 ======
